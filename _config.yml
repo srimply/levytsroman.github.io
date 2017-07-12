@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Roman Levytskyy
-email: "r.levyts@gmail.com"
+title: Shubham Sr
+email: "shubham.saurav97@gmail.com"
 description: >
-  Ambitious and eager full stack web developer, looking to share my programming journey, as well as keep an organized list of projects in one place.
+  Ambitious and eager front-end web developer, looking up to share my journey, as well as keep an organized list of works in one place.
 about_me: >
-  I'm a recent DevBootcamp graduate going into programming from a mathematical background. I got into programming because I love making things, but in most cases that requires tools and a workshop. Now I can work anytime, anywhere with all the latest tools readily available at my fingertips.
+  I'm an undergraduate student at Guru Govind Singh Indraprastha University, India. I got into programming because I love making things, but in most cases that requires tools and a workshop. Now I can work anytime, anywhere with all the latest tools readily available at my fingertips.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linked_in_link: "https://www.linkedin.com/in/levytsroman"
